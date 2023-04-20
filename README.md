@@ -67,7 +67,5 @@ Designed and developed frontend for a website-chat widget system (similar to Int
 ### Contacts
 
 - Email: dim.sukharev@gmail.com
-- Phone: +995 591 50 15 93
-- Telegram: [@jlo_olj](https://t.me/jlo_olj) (preferable)
 - Github: [github.com/di-sukharev](https://github.com/di-sukharev)
 - LinkedIn: [linkedin.com/in/di-sukharev](https://linkedin.com/in/di-sukharev)
