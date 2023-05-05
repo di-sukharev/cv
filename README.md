@@ -36,8 +36,8 @@ Software Engineer & Engineering Manager
 
 Established an efficient development process of a freight logistics platform (similar to Uber Freight) from the ground up by assembling a talented team comprising 2 engineers, 1 QA specialist, and 1 product designer. Harmonized collaboration between stakeholders and my team, successfully launching a web-based Progressive Web App (PWA) and a mobile React Native application. Achieved cost savings of approximately 30% on a $500k budget and met the project deadline on time.
 
-### Software Engineer
-Frontend Carggo | Oct 2017 - Mar 2018
+### Carggo | Oct 2017 - Mar 2018
+Software Engineer — Frontend
 
 Designed and developed front-end components for a highly intricate business process of digital freight fulfilment platform aimed at identifying the most cost-effective and efficient logistics options.
 
