@@ -1,71 +1,46 @@
 # DIMA SUKHAREV — CV
 
-## Software Engineer
+## Senior Software Engineer
 
-### Summary
+I am an open-minded engineer with over 6 years of experience in software engineering, boasting a proven track record in leading teams, mentoring juniors, and having fun contributing to open-source.
 
-I'm an open-minded fullstack engineer with 6 years of experience in software development and passion for elegant solutions to complex problems: from designing and building high-loaded apps to managing my happy marriage :)
+I'm passionate about crafting elegant solutions to complex problems, fostering innovation, implementing effective processes, and collaborating with unique individuals.
+At Tranzet, I led the development of a complex system by assembling and managing a team of 5 people, ultimately delivering the product on time and saving ~30% of a $500k budget through efficient collaboration.
 
-I value sophisticated knowledge and engineering thinking over coding, so I have strong understanding of computer systems: from transistors quantum physics to cpu micro-architecture, operating systems, compilers and all that javascripts.
+I value sophisticated knowledge and engineering thinking over mere coding, which has given me a comprehensive understanding of computer systems, ranging from transistors and quantum physics to CPU micro-architecture, operating systems, compilers, and all aspects high-level software.
 
-I created Applied Computer Science Simulator and mentored tens of junior coders into building critical engineering thinking through learning applied computer science principles.
+I have mentored 60+ junior coders, helping them develop critical and engineering thinking by teaching applied computer science principles through my "Build A Computer Simulator".
 
-I'm an author of [OpenCommit](https://github.com/di-sukharev/opencommit) — open-source library for managing your Git commit messages with AI.
+## TOOLS
+TypeScript, Python, JavaScript, Front-end Frameworks (React, Vue, Next.js, Gatsby), Front-end Bundling and Optimization Techniques (Webpack, Snowpack, Rollup, Gulp), Front-end State Management (Context API, Redux, MobX, RQuery), Back-end Frameworks (Node.js with Express and Koa), Comprehensive Testing Approaches (Jest, Mocha/Enzyme, React Testing Library, Cypress), Cloud Services (Firebase, Vercel, Netlify, Heroku), Database Technologies (MongoDB, PostgreSQL with GraphQL integration), Mobile Development (React Native), and more.
 
-I also hired and managed a team of 5 people when I built whole tech for Tranzet startup, delivering together a complex product 4 months before launch deadline and saving ~50% of $500k budget.
+## CAREER
 
-I'm good at management, but I still love solving engineering problems too much. Anyway I will deliver tech value and build effective communication processes saving some men-days a month. Working at [deel.com](https://deel.com) I improved and reduced sprint planning time of 10 people for ~45 minutes, it's ~4 men-days a month, so yep :)
+### Deel (YC alumni) | Sep 2022 - present
+Senior Software Engineer — Fullstack
 
-Although I believe empathy doesn't exist and feeling people is an illusion — I love communication and have a good ability of assembling interlocutors in mental models within my own experience, so if it's called good soft-skills — let it be it.
+Designed, constructed, and optimized critical parts of the Global Payroll product, enabling hundreds of thousands of daily users to securely and accurately manage their compensations effortlessly. Streamlined the sprint planning process for a 10- person team, saving approximately 4 man-days per month by reducing planning time by ~45 minutes. This was achieved by introducing an asynchronous ticket estimation process.
 
-### Work Experience
+### Alibaba | Jun 2020 - Sep 2022
+Software Engineer — Fullstack
 
-#### Software Engineer - Fullstack
+Designed and developed vital components of AliExpress applications within the User Growth team, catering to millions of daily active users. Contributed to the development of highly-scalable systems by optimizing front-end, back-end, and database performance during the largest AliExpress promotional events, such as the 11.11 (10+ million DAU) and 3.28 (4+ million DAU).
 
-Alibaba | Jun 2020 - Sep 2022
+### Royal Collection Trust | Apr 2020 - Jun 2020
+Software Engineer — Fullstack (Contract)
 
-Worked on AliExpress app in the User Growth team. Designed and developed frontends and backends for 200k DAU.
+Developed front-end solutions for a ticketing system used in ~20 UK Museums (such as rct.uk) with approximately 10k daily active users, in collaboration with deeson.co.uk (a leading UK software development contractor) and gitnation.org (organizers of premier global tech conferences).
 
-#### Software Engineer & Engineering Manager
+### Tranzet | Mar 2018 - Apr 2020
+Software Engineer & Engineering Manager
 
-[Tranzet](https://tranzet.io) | Mar 2018 - Apr 2020
+Established an efficient development process of a freight logistics platform (similar to Uber Freight) from the ground up by assembling a talented team comprising 2 engineers, 1 QA specialist, and 1 product designer. Harmonized collaboration between stakeholders and my team, successfully launching a web-based Progressive Web App (PWA) and a mobile React Native application. Achieved cost savings of approximately 30% on a $500k budget and met the project deadline on time.
 
-Assembled and managed a tech team of 5 people. Launched development of a freight logistics platform (similar to Uber Freight) from scratch. Coordinated and aligned communication between stakeholders and the tech team. Delivered PWA and mobile app. Saved 70% of $500k budget and met the launch deadline 2 months earlier.
+Software Engineer — Frontend Carggo | Oct 2017 - Mar 2018
 
-#### Software Engineer - Fullstack (Contract)
+Designed and developed front-end components for a highly intricate business process of digital freight fulfilment platform aimed at identifying the most cost-effective and efficient logistics options.
 
-Royal Collection Trust | Apr 2020 - Jun 2020
+### Rostelecom | Jan 2017 - Sep 2017
+Junior Software Engineer — Frontend
 
-Developed frontend and backend for a ticketing system for top 20 UK Museums including [Royal Collection Trust](https://rct.uk). Partnered with [deeson.co.uk](https://deeson.co.uk) and [gitnation.org](https://gitnation.org) who make top Tech Conferences in the world.
-
-#### Software Engineer — Frontend
-
-Carggo | Oct 2017 - Mar 2018
-
-Developed frontend for a digital freight fulfillment platform (US market).
-
-#### Junior Software Engineer — Frontend
-
-Rostelecom | Jan 2017 - Sep 2017
-
-Designed and developed frontend for a website-chat widget system (similar to Intercom). Good old days.
-
-### Stack
-
-- Languages: JavaScript/TypeScript, Python
-- Frontend frameworks: React, Vue, Next, Gatsby
-- Frontend bundling: Webpack, Snowpack, Vite, Rollup, Gulp
-- Frontend state management: Context, Redux, Mobx, RQuery
-- Backend frameworks: Node (Express, Koa)
-- Testing: Jest, Mocha/Enzyme, RTL, Cypress, Puppeteer, Selenium, Playwright
-- Clouds: Firebase, Vercel, Netlify, Heroku
-- Databases: MongoDB, PostgreSQL, GraphQL
-- ORMs: Sequelize, Prisma
-- Mobile development: React Native
-- UI kits: MUI, Ant Design, NativeBase, Blueprint
-
-### Contacts
-
-- Email: dim.sukharev@gmail.com
-- Github: [github.com/di-sukharev](https://github.com/di-sukharev)
-- LinkedIn: [linkedin.com/in/di-sukharev](https://linkedin.com/in/di-sukharev)
+The good old times, I was a junior developer solving my first problems. With some help from the internet, I built a website chat widget frontend from scratch (like the Intercom bubble) for the biggest telecom provider in Russia.
