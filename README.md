@@ -24,7 +24,7 @@ Designed, constructed, and optimized critical parts of the Global Payroll produc
 ### Alibaba | Jun 2020 - Sep 2022
 Software Engineer — Fullstack
 
-Designed and developed vital components of AliExpress applications within the User Growth team, catering to millions of daily active users. Contributed to the development of highly-scalable systems by optimizing front-end, back-end, and database performance during the largest AliExpress promotional events, such as the 11.11 (10+ million DAU) and 3.28 (4+ million DAU).
+Designed and developed vital components of AliExpress applications within the User Growth team, catering to millions of daily active users. Contributed to the development of highly-scalable systems by optimizing front-end, back-end, and database performance during the largest AliExpress promotional events, such as the 11.11 (100+ million DAU) and 3.28 (40+ million DAU).
 
 ### Royal Collection Trust | Apr 2020 - Jun 2020
 Software Engineer — Fullstack (Contract)
